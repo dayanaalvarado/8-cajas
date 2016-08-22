@@ -1,0 +1,51 @@
+
+
+.box {
+	border:1px black solid;
+	margin-bottom: 10px;
+	width: 100px;
+height:100px;
+}
+
+.tres, .cuatro{
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 5px;
+
+
+}
+
+.uno{ 
+	background-color: gray;	
+	width: 100px;
+	height:100px; 
+	}
+
+.dos{ 
+background-color: green;
+width: 370px;
+padding:10px;	
+}
+
+.dos .box {
+	background-color: orange;
+	display: inline-block;
+	margin-bottom: 0px;
+margin: 7px;
+margin-bottom: 2px;
+}
+
+.tres{ 
+background-color: yellow;	
+ 
+}
+
+.cuatro{ 
+background-color: purple;	
+
+}
+
+.cinco{ 
+background-color: red;	 
+}
+
